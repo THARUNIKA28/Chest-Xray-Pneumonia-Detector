@@ -1,5 +1,6 @@
-
 # Chest X-ray Pneumonia Detection 🩻🤖
+
+**Live Prediction App:** [Pneumonia Detection App](https://huggingface.co/spaces/THARUNIKA28/pneumonia-detection-app)
 
 A deep learning model built using TensorFlow & Keras to detect Pneumonia from Chest X-ray images.
 
